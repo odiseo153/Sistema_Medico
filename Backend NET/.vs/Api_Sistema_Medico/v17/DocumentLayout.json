@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Odiseo\\Desktop\\Todo\\Full Stack Proyects\\Sistema Medico\\Backend NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BFECFC-749F-41C1-A53D-D182513A8590}|Api\\Api.csproj|c:\\users\\odiseo\\desktop\\todo\\full stack proyects\\sistema medico\\backend net\\api\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BFECFC-749F-41C1-A53D-D182513A8590}|Api\\Api.csproj|solutionrelative:api\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BFECFC-749F-41C1-A53D-D182513A8590}|Api\\Api.csproj|c:\\users\\odiseo\\desktop\\todo\\full stack proyects\\sistema medico\\backend net\\api\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BFECFC-749F-41C1-A53D-D182513A8590}|Api\\Api.csproj|solutionrelative:api\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97D073-0F5C-4427-9EEE-4F9773617F00}|Infraestructure\\Infraestructure.csproj|c:\\users\\odiseo\\desktop\\todo\\full stack proyects\\sistema medico\\backend net\\infraestructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97D073-0F5C-4427-9EEE-4F9773617F00}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97D073-0F5C-4427-9EEE-4F9773617F00}|Infraestructure\\Infraestructure.csproj|c:\\users\\odiseo\\desktop\\todo\\full stack proyects\\sistema medico\\backend net\\infraestructure\\repository\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97D073-0F5C-4427-9EEE-4F9773617F00}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repository\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4131A24D-FC8B-40ED-8D8D-B30AEA33AA6E}|Application\\Application.csproj|c:\\users\\odiseo\\desktop\\todo\\full stack proyects\\sistema medico\\backend net\\application\\pacientes\\validation\\createdpacientevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4131A24D-FC8B-40ED-8D8D-B30AEA33AA6E}|Application\\Application.csproj|solutionrelative:application\\pacientes\\validation\\createdpacientevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4131A24D-FC8B-40ED-8D8D-B30AEA33AA6E}|Application\\Application.csproj|c:\\users\\odiseo\\desktop\\todo\\full stack proyects\\sistema medico\\backend net\\application\\pacientes\\command\\updatepacientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4131A24D-FC8B-40ED-8D8D-B30AEA33AA6E}|Application\\Application.csproj|solutionrelative:application\\pacientes\\command\\updatepacientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4131A24D-FC8B-40ED-8D8D-B30AEA33AA6E}|Application\\Application.csproj|c:\\users\\odiseo\\desktop\\todo\\full stack proyects\\sistema medico\\backend net\\application\\pacientes\\command\\createpacientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4131A24D-FC8B-40ED-8D8D-B30AEA33AA6E}|Application\\Application.csproj|solutionrelative:application\\pacientes\\command\\createpacientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97D073-0F5C-4427-9EEE-4F9773617F00}|Infraestructure\\Infraestructure.csproj|c:\\users\\odiseo\\desktop\\todo\\full stack proyects\\sistema medico\\backend net\\infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F97D073-0F5C-4427-9EEE-4F9773617F00}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4131A24D-FC8B-40ED-8D8D-B30AEA33AA6E}|Application\\Application.csproj|c:\\users\\odiseo\\desktop\\todo\\full stack proyects\\sistema medico\\backend net\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4131A24D-FC8B-40ED-8D8D-B30AEA33AA6E}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Todo\\Full Stack Proyects\\Sistema Medico\\Backend NET\\Api\\Controllers\\PacientesController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\PacientesController.cs",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Todo\\Full Stack Proyects\\Sistema Medico\\Backend NET\\Api\\Controllers\\PacientesController.cs",
+              "RelativeToolTip": "Api\\Controllers\\PacientesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:52:45.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Todo\\Full Stack Proyects\\Sistema Medico\\Backend NET\\Infraestructure\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Todo\\Full Stack Proyects\\Sistema Medico\\Backend NET\\Infraestructure\\Repository\\Repository.cs",
+              "RelativeToolTip": "Infraestructure\\Repository\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:42:27.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PacienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Todo\\Full Stack Proyects\\Sistema Medico\\Backend NET\\Infraestructure\\Repository\\PacienteRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repository\\PacienteRepository.cs",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Todo\\Full Stack Proyects\\Sistema Medico\\Backend NET\\Infraestructure\\Repository\\PacienteRepository.cs",
+              "RelativeToolTip": "Infraestructure\\Repository\\PacienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:42:14.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreatedPacienteValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Todo\\Full Stack Proyects\\Sistema Medico\\Backend NET\\Application\\Pacientes\\Validation\\CreatedPacienteValidation.cs",
+              "RelativeDocumentMoniker": "Application\\Pacientes\\Validation\\CreatedPacienteValidation.cs",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Todo\\Full Stack Proyects\\Sistema Medico\\Backend NET\\Application\\Pacientes\\Validation\\CreatedPacienteValidation.cs",
+              "RelativeToolTip": "Application\\Pacientes\\Validation\\CreatedPacienteValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:36:01.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdatePacienteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Todo\\Full Stack Proyects\\Sistema Medico\\Backend NET\\Application\\Pacientes\\Command\\UpdatePacienteCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Pacientes\\Command\\UpdatePacienteCommand.cs",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Todo\\Full Stack Proyects\\Sistema Medico\\Backend NET\\Application\\Pacientes\\Command\\UpdatePacienteCommand.cs",
+              "RelativeToolTip": "Application\\Pacientes\\Command\\UpdatePacienteCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:50:12.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Infraestructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Todo\\Full Stack Proyects\\Sistema Medico\\Backend NET\\Infraestructure\\Infraestructure.csproj",
+              "RelativeDocumentMoniker": "Infraestructure\\Infraestructure.csproj",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Todo\\Full Stack Proyects\\Sistema Medico\\Backend NET\\Infraestructure\\Infraestructure.csproj",
+              "RelativeToolTip": "Infraestructure\\Infraestructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T13:47:35.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Todo\\Full Stack Proyects\\Sistema Medico\\Backend NET\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Todo\\Full Stack Proyects\\Sistema Medico\\Backend NET\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T13:47:23.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CitasController.cs",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Todo\\Full Stack Proyects\\Sistema Medico\\Backend NET\\Api\\Controllers\\CitasController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\CitasController.cs",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Todo\\Full Stack Proyects\\Sistema Medico\\Backend NET\\Api\\Controllers\\CitasController.cs",
+              "RelativeToolTip": "Api\\Controllers\\CitasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:42:53.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreatePacienteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Todo\\Full Stack Proyects\\Sistema Medico\\Backend NET\\Application\\Pacientes\\Command\\CreatePacienteCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Pacientes\\Command\\CreatePacienteCommand.cs",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Todo\\Full Stack Proyects\\Sistema Medico\\Backend NET\\Application\\Pacientes\\Command\\CreatePacienteCommand.cs",
+              "RelativeToolTip": "Application\\Pacientes\\Command\\CreatePacienteCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T19:55:15.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAowAkBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-10T13:47:18.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

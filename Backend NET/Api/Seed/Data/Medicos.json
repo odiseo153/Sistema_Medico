@@ -1,0 +1,72 @@
+[
+  {
+    "Id": "d3200df1-bb57-4f9e-bd77-4a2e88f443fb",
+    "UserName": "drsmith",
+    "Password": "Odiseo12",
+    "Email": "drsmith@example.com",
+    "Especialidad": "Cardiología"
+  },
+  {
+    "Id": "a4a82523-4f6d-4a91-a1a1-e69b19b2f8a7",
+    "UserName": "drjones",
+    "Password": "Odiseo12",
+    "Email": "drjones@example.com",
+    "Especialidad": "Dermatología"
+  },
+  {
+    "Id": "8b0e836b-d4e7-4f41-b303-f39a2be84eb2",
+    "UserName": "drwilliams",
+    "Password": "Odiseo12",
+    "Email": "drwilliams@example.com",
+    "Especialidad": "Pediatría"
+  },
+  {
+    "Id": "e01e5dbb-1872-4b29-bc8d-88327e4b129d",
+    "UserName": "drbrown",
+    "Password": "Odiseo12",
+    "Email": "drbrown@example.com",
+    "Especialidad": "Neurología"
+  },
+  {
+    "Id": "c14a16fb-25d0-4ac4-b1e6-f04365e8f51d",
+    "UserName": "drwilson",
+    "Password": "Odiseo12",
+    "Email": "drwilson@example.com",
+    "Especialidad": "Ginecología"
+  },
+  {
+    "Id": "51b3fa45-23e7-4bb2-ba9e-0126950e08c5",
+    "UserName": "drmartinez",
+    "Password": "Odiseo12",
+    "Email": "drmartinez@example.com",
+    "Especialidad": "Oftalmología"
+  },
+  {
+    "Id": "ed10113c-22f8-4a21-9055-9ab1873188b9",
+    "UserName": "drlopez",
+    "Password": "Odiseo12",
+    "Email": "drlopez@example.com",
+    "Especialidad": "Ortopedia"
+  },
+  {
+    "Id": "e1774525-9269-4874-bad8-b146001b4c39",
+    "UserName": "drrodriguez",
+    "Password": "Odiseo12",
+    "Email": "drrodriguez@example.com",
+    "Especialidad": "Oncología"
+  },
+  {
+    "Id": "a5d13f61-bf49-4470-80ec-54533e013bd3",
+    "UserName": "drhernandez",
+    "Password": "Odiseo12",
+    "Email": "drhernandez@example.com",
+    "Especialidad": "Endocrinología"
+  },
+  {
+    "Id": "9f4a2440-5b61-44ad-8313-69c5e57bb66e",
+    "UserName": "drlopez",
+    "Password": "Odiseo12",
+    "Email": "drlopez@example.com",
+    "Especialidad": "Cirugía General"
+  }
+]
