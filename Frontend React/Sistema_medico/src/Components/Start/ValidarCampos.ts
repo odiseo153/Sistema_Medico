@@ -1,10 +1,18 @@
-import { Menssage } from "../MensajeEmergente/Mensaje";
 
-export const validarCampos = (objeto) => {
-    for (const key in objeto) {
-      if (Object.prototype.hasOwnProperty.call(objeto, key) && !objeto[key]) {
-        Menssage.errorMessage(`El campo ${key} no puede estar vacío`);
-      }
+
+  export  const validarCampos = (entidad: { userName?: string; password?: string; email?: string; especialidad?: string; securityStamp?: string; }) => {
+    let mensajeError = '';
+    if (!entidad.userName) {
+      mensajeError += 'El campo Usuario es obligatorio. ';
     }
-    return "bien"; // Retorna null si todos los campos están llenos
+    if (!entidad.password) {
+      mensajeError += 'El campo Password es obligatorio. ';
+    }
+    if (!entidad.email) {
+      mensajeError += 'El campo Email es obligatorio. ';
+    }
+    if (!entidad.especialidad && !entidad.securityStamp) {
+      mensajeError += 'El campo Especialidad o Código Social es obligatorio. ';
+    }
+    return mensajeError;
   };

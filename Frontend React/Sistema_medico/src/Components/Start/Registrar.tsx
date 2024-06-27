@@ -1,80 +1,102 @@
-import {  useState } from "react";
-import Presentacion from "./Presentacion";
+import { useState } from "react";
 import Cambio from "./Cambio";
-import { Creacion } from "./Creacion";
+import { RegistrarMedico, RegistrarPaciente } from "../Api/ApiController";
+import { Menssage } from "../MensajeEmergente/Mensaje";
+import { validarCampos } from "./ValidarCampos";
+import Button from "../Tools/Button";
 
 
 //import { Medico } from "./Interfaces/Medico";
 
 
+
+
 export default function Registrar() {
   const [selectedValue, setSelectedValue] = useState(true);
+  const [entidad, setEntidad] = useState({});
 
 
-  const [medico, setMedico] = useState({
-    userName: "",
-    password: "",
-    email: "",
-    especialidad: ""
-  });
 
-  
-  const [paciente, setPaciente] = useState({
-    userName: "",
-    password: "",
-    email: "",
-    securityStamp: ""
-});
+  const handleChange = (e: { target: { name: string; value: string; }; }) => {
+    const { name, value } = e.target;
 
+    setEntidad(prevState => ({
+      ...prevState,
+      [name]: value
+    }));
+  }
+
+  const Registrar = () => {
+    console.log(entidad);
+
+    const mensajeError = validarCampos(entidad);
+
+    if (mensajeError != '') {
+      Menssage.errorMessage(mensajeError);
+      return;
+    }
+    if (selectedValue) {
+      console.log("medico")
+      RegistrarMedico(entidad)
+    } else {
+      console.log("paciente")
+      RegistrarPaciente(entidad)
+    }
+
+    //Registrarpaciente(paciente);
+  };
 
   return (
-    <div className="">
-      <section className="gradient-form h-full ">
-        <div className="container h-full p-10">
-          <div className="flex h-full flex-wrap items-center justify-center text-neutral-800 dark:text-neutral-200">
-            <div className="w-full">
-              <div className="block rounded-lg bg-dark shadow-lg dark:bg-neutral-800">
-                <div className="g-0 lg:flex lg:flex-wrap">
-
-                  <div className="px-4 md:px-0 lg:w-6/12">
-                    <div className="md:mx-6 md:p-12">
-
-                      <div className="text-center">
-                        <img className="mx-auto w-48 rounded-2xl" src="https://cdn.thecollector.com/wp-content/uploads/2022/05/world-health-organisation-snake-logo.jpg?width=1400&quality=55" alt="logo" />
-                        <h4 className="mb-12 mt-1 pb-1 text-xl font-semibold">
-                          Somos el mejor equipo medico
-                          <h1 className="text-3xl bold">Registro</h1>
-                        </h4>
-                      </div>
-
-                      <Cambio setSelectedValue={setSelectedValue} />
-                     
-                      {selectedValue &&
-                        <Creacion objeto={medico} entidadType={selectedValue} />
-                      }
-
-                      {!selectedValue &&
-                        <Creacion objeto={paciente} entidadType={selectedValue} />
-                      }
-
-                    </div>
-                  </div>
+    <div className={`flex flex-col items-center justify-center `}>
+      <div className="w-full max-w-md bg-white rounded-lg shadow-md p-6">
 
 
-                  {/* Right column container with background and description*/}
-                  <div className="flex items-center rounded-b-lg lg:w-6/12 lg:rounded-e-lg lg:rounded-bl-none" style={{ background: 'linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593)' }}>
-                    <Presentacion />
-                  </div>
+        <Cambio setSelectedValue={setSelectedValue} />
 
+        <h2 className="mt-2 text-2xl font-bold text-gray-900 mb-4">Registrar</h2>
+        <form className="flex flex-col" >
+          <input
+            type="text"
+            name="userName"
+            onChange={handleChange}
+            className="bg-gray-100 text-gray-900 border-0 rounded-md p-2 mb-4 focus:bg-gray-200 focus:outline-none focus:ring-1 focus:ring-blue-500 transition ease-in-out duration-150"
+            placeholder="Usuario "
+          />
 
-                </div>
-              </div>
-            </div>
+          <input
+            type="password"
+            name="password"
+            onChange={handleChange}
+            className="bg-gray-100 text-gray-900 border-0 rounded-md p-2 mb-4 focus:bg-gray-200 focus:outline-none focus:ring-1 focus:ring-blue-500 transition ease-in-out duration-150"
+            placeholder="Password"
+          />
+
+          <input
+            type="email"
+            name="email"
+            onChange={handleChange}
+            className="bg-gray-100 text-gray-900 border-0 rounded-md p-2 mb-4 focus:bg-gray-200 focus:outline-none focus:ring-1 focus:ring-blue-500 transition ease-in-out duration-150"
+            placeholder="Email "
+          />
+
+          <input
+            type="email"
+            name={selectedValue ? 'especialidad' : 'securityStamp'}
+            onChange={handleChange}
+            className="bg-gray-100 text-gray-900 border-0 rounded-md p-2 mb-4 focus:bg-gray-200 focus:outline-none focus:ring-1 focus:ring-blue-500 transition ease-in-out duration-150"
+            placeholder={selectedValue ? 'especialidad' : 'codigo social'}
+          />
+
+          <div className="flex  justify-between flex-wrap">
+            <a href="/login" className="text-gray-900 mt-2">
+             Do you have an account?
+            </a>
+            <Button Accion={Registrar} />
           </div>
-        </div>
-      </section>
+
+
+        </form>
+      </div>
     </div>
-  )
+  );
 }
-
-

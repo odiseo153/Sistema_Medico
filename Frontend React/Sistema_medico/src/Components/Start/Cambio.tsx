@@ -1,4 +1,4 @@
-import { SetStateAction, useState } from "react";
+import {  useState } from "react";
 
 
 export default function Cambio({setSelectedValue}:{setSelectedValue:React.Dispatch<React.SetStateAction<boolean>>;}) {
@@ -23,7 +23,7 @@ export default function Cambio({setSelectedValue}:{setSelectedValue:React.Dispat
                         checked={selectedValue}
                         onChange={handleChange}
                     />
-                    <span className={`tracking-widest p-2 rounded-lg transition duration-150 ease-in-out ${selectedValue? 'peer-checked:bg-gradient-to-r peer-checked:from-blueviolet peer-checked:to-violet peer-checked:text-black  bg-white' : 'text-gray-700'}`}>
+                    <span className={`tracking-widest p-2 rounded-lg transition duration-150 ease-in-out ${selectedValue? 'peer-checked:bg-gradient-to-r peer-checked:from-blueviolet peer-checked:to-violet peer-checked:text-white  bg-dark' : 'text-gray-700'}`}>
                         Medico
                     </span>
                 </label>
@@ -37,7 +37,7 @@ export default function Cambio({setSelectedValue}:{setSelectedValue:React.Dispat
                         checked={!selectedValue }
                         onChange={handleChange}
                     />
-                    <span className={`tracking-widest p-2 rounded-lg transition duration-150 ease-in-out ${!selectedValue ? 'peer-checked:bg-gradient-to-r peer-checked:from-blueviolet peer-checked:to-violet peer-checked:text-black  bg-white ' : 'text-gray-700'}`}>
+                    <span className={`tracking-widest p-2 rounded-lg transition duration-150 ease-in-out ${!selectedValue ? 'peer-checked:bg-gradient-to-r peer-checked:from-blueviolet peer-checked:to-violet peer-checked:text-white  bg-dark ' : 'text-gray-700'}`}>
                         Paciente
                     </span>
                 </label>

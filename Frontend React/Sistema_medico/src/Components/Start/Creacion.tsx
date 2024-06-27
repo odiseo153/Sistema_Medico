@@ -21,6 +21,8 @@ export function Creacion({ objeto, entidadType }: { objeto: any, entidadType: bo
 
     }
 
+    
+
     const Registrar = () => {
         console.log(entidad);
 
@@ -50,7 +52,7 @@ export function Creacion({ objeto, entidadType }: { objeto: any, entidadType: bo
                         id={key}
                         name={key}
                         onChange={handleChange}
-                        className="rounded border border-gray-200 text-sm w-full font-normal leading-[18px] text-black tracking-[0px] appearance-none block h-11 m-0 p-[11px] focus:ring-2 ring-offset-2 ring-gray-900 outline-0"
+                        className="bg-gray-100 text-gray-900 border-0 rounded-md p-2 mb-4 focus:bg-gray-200 focus:outline-none focus:ring-1 focus:ring-blue-500 transition ease-in-out duration-150"
                     />
                 </div>
             ))}
