@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Application
-build_property.ProjectDir = C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Application\
+build_property.ProjectDir = C:\xampp\htdocs\Sistema_Medico\Backend NET\Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
