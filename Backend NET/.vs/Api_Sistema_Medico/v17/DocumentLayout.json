@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\xampp\\htdocs\\Sistema_Medico\\Backend NET\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BFECFC-749F-41C1-A53D-D182513A8590}|Api\\Api.csproj|c:\\xampp\\htdocs\\sistema_medico\\backend net\\api\\controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BFECFC-749F-41C1-A53D-D182513A8590}|Api\\Api.csproj|solutionrelative:api\\controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BFECFC-749F-41C1-A53D-D182513A8590}|Api\\Api.csproj|c:\\xampp\\htdocs\\sistema_medico\\backend net\\api\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BFECFC-749F-41C1-A53D-D182513A8590}|Api\\Api.csproj|solutionrelative:api\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -40,8 +49,30 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CitasController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Sistema_Medico\\Backend NET\\Api\\Controllers\\CitasController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\CitasController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Sistema_Medico\\Backend NET\\Api\\Controllers\\CitasController.cs",
+              "RelativeToolTip": "Api\\Controllers\\CitasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T01:23:25.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HistorialController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Sistema_Medico\\Backend NET\\Api\\Controllers\\HistorialController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\HistorialController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Sistema_Medico\\Backend NET\\Api\\Controllers\\HistorialController.cs",
+              "RelativeToolTip": "Api\\Controllers\\HistorialController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T01:23:24.47Z",
+              "EditorCaption": ""
             }
           ]
         },
