@@ -1,0 +1,743 @@
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Api.exe
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Api.deps.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Api.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Api.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\EntityFramework6.Npgsql.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Application.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Core.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Infraestructure.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Application.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Core.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Infraestructure.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.props
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.props
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\obj\Debug\net8.0\Api.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\obj\Debug\net8.0\refint\Api.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\obj\Debug\net8.0\Api.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\obj\Debug\net8.0\ref\Api.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\MediatR.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Api.exe
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Api.deps.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Api.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Api.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\EntityFramework6.Npgsql.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\MediatR.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Application.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Core.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Infraestructure.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Application.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Core.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Infraestructure.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.props
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.props
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\obj\Debug\net8.0\Api.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\obj\Debug\net8.0\refint\Api.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\obj\Debug\net8.0\Api.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\obj\Debug\net8.0\ref\Api.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Api\bin\Debug\net8.0\Dapper.dll
+c:\xampp\htdocs\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.dll
+c:\xampp\htdocs\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\refint\Api.dll
+c:\xampp\htdocs\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.pdb
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.sourcelink.json
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\appsettings.json
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Api.exe
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Api.deps.json
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Api.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Api.pdb
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\AutoMapper.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Azure.Core.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Dapper.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\EntityFramework.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\EntityFramework6.Npgsql.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\FluentValidation.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\MediatR.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNet.Identity.Core.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Npgsql.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Application.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Core.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Infraestructure.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Application.pdb
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Core.pdb
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Infraestructure.pdb
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.props
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.props
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\ref\Api.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.sourcelink.json
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Api.exe
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Api.deps.json
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Api.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Api.pdb
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Dapper.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\EntityFramework6.Npgsql.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\MailKit.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\MediatR.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\MimeKit.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Application.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Core.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Infraestructure.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Application.pdb
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Core.pdb
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Infraestructure.pdb
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.props
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.props
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\refint\Api.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.pdb
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\ref\Api.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Api.exe
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Api.deps.json
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Api.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Api.pdb
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Dapper.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\EntityFramework6.Npgsql.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\MailKit.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\MediatR.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\MimeKit.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Application.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Core.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Infraestructure.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Application.pdb
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Core.pdb
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Infraestructure.pdb
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.sourcelink.json
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.props
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.props
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\refint\Api.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.pdb
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\ref\Api.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Api.exe
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Api.deps.json
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Api.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Api.pdb
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Dapper.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\EntityFramework6.Npgsql.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\MailKit.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\MediatR.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\MimeKit.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Application.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Core.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Infraestructure.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Application.pdb
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Core.pdb
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\Infraestructure.pdb
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.sourcelink.json
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.props
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.props
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\refint\Api.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.pdb
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\obj\Debug\net8.0\ref\Api.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Api\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll

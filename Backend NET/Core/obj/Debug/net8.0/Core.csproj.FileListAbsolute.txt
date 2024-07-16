@@ -1,0 +1,76 @@
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Core\bin\Debug\net8.0\Core.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Core\obj\Debug\net8.0\Core.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Api_Sistema_Medico\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Core\bin\Debug\net8.0\Core.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Core\obj\Debug\net8.0\Core.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Sistema Medico\Backend NET\Core\obj\Debug\net8.0\ref\Core.dll
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Core\bin\Debug\net8.0\Core.deps.json
+c:\xampp\htdocs\Sistema_Medico\Backend NET\Core\bin\Debug\net8.0\Core.dll
+c:\xampp\htdocs\Sistema_Medico\Backend NET\Core\bin\Debug\net8.0\Core.pdb
+c:\xampp\htdocs\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+c:\xampp\htdocs\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+c:\xampp\htdocs\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+c:\xampp\htdocs\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+c:\xampp\htdocs\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+c:\xampp\htdocs\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.sourcelink.json
+c:\xampp\htdocs\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.dll
+c:\xampp\htdocs\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\refint\Core.dll
+c:\xampp\htdocs\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.pdb
+C:\xampp\htdocs\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Core\bin\Debug\net8.0\Core.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\Yahinniel Vàsquez\Source\Repos\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Core\bin\Debug\net8.0\Core.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\Yahinniel Vàsquez\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Core\bin\Debug\net8.0\Core.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\Odiseo\Desktop\Sistema_Medico\Sistema_Medico yahinniel\Sistema_Medico\Backend NET\Core\obj\Debug\net8.0\ref\Core.dll

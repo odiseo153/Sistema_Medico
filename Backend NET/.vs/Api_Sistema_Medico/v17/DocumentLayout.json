@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97D073-0F5C-4427-9EEE-4F9773617F00}|Infraestructure\\Infraestructure.csproj|c:\\users\\odiseo\\desktop\\sistema_medico\\sistema_medico yahinniel\\sistema_medico\\backend net\\infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F97D073-0F5C-4427-9EEE-4F9773617F00}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4131A24D-FC8B-40ED-8D8D-B30AEA33AA6E}|Application\\Application.csproj|c:\\users\\odiseo\\desktop\\sistema_medico\\sistema_medico yahinniel\\sistema_medico\\backend net\\application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4131A24D-FC8B-40ED-8D8D-B30AEA33AA6E}|Application\\Application.csproj|solutionrelative:application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BFECFC-749F-41C1-A53D-D182513A8590}|Api\\Api.csproj|c:\\users\\odiseo\\desktop\\sistema_medico\\sistema_medico yahinniel\\sistema_medico\\backend net\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BFECFC-749F-41C1-A53D-D182513A8590}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97D073-0F5C-4427-9EEE-4F9773617F00}|Infraestructure\\Infraestructure.csproj|c:\\users\\odiseo\\desktop\\sistema_medico\\sistema_medico yahinniel\\sistema_medico\\backend net\\infraestructure\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97D073-0F5C-4427-9EEE-4F9773617F00}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97D073-0F5C-4427-9EEE-4F9773617F00}|Infraestructure\\Infraestructure.csproj|c:\\users\\odiseo\\desktop\\sistema_medico\\sistema_medico yahinniel\\sistema_medico\\backend net\\infraestructure\\servicio email\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97D073-0F5C-4427-9EEE-4F9773617F00}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\servicio email\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97D073-0F5C-4427-9EEE-4F9773617F00}|Infraestructure\\Infraestructure.csproj|c:\\users\\odiseo\\desktop\\sistema_medico\\sistema_medico yahinniel\\sistema_medico\\backend net\\infraestructure\\servicio email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97D073-0F5C-4427-9EEE-4F9773617F00}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\servicio email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4131A24D-FC8B-40ED-8D8D-B30AEA33AA6E}|Application\\Application.csproj|c:\\users\\odiseo\\desktop\\sistema_medico\\sistema_medico yahinniel\\sistema_medico\\backend net\\application\\commandgenerics\\deleteentitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4131A24D-FC8B-40ED-8D8D-B30AEA33AA6E}|Application\\Application.csproj|solutionrelative:application\\commandgenerics\\deleteentitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BFECFC-749F-41C1-A53D-D182513A8590}|Api\\Api.csproj|c:\\users\\odiseo\\desktop\\sistema_medico\\sistema_medico yahinniel\\sistema_medico\\backend net\\api\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BFECFC-749F-41C1-A53D-D182513A8590}|Api\\Api.csproj|solutionrelative:api\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BFECFC-749F-41C1-A53D-D182513A8590}|Api\\Api.csproj|c:\\users\\odiseo\\desktop\\sistema_medico\\sistema_medico yahinniel\\sistema_medico\\backend net\\api\\controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BFECFC-749F-41C1-A53D-D182513A8590}|Api\\Api.csproj|solutionrelative:api\\controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BFECFC-749F-41C1-A53D-D182513A8590}|Api\\Api.csproj|c:\\users\\odiseo\\desktop\\sistema_medico\\sistema_medico yahinniel\\sistema_medico\\backend net\\api\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BFECFC-749F-41C1-A53D-D182513A8590}|Api\\Api.csproj|solutionrelative:api\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4131A24D-FC8B-40ED-8D8D-B30AEA33AA6E}|Application\\Application.csproj|c:\\users\\odiseo\\desktop\\sistema_medico\\sistema_medico yahinniel\\sistema_medico\\backend net\\application\\email\\recordatorio\\recordatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4131A24D-FC8B-40ED-8D8D-B30AEA33AA6E}|Application\\Application.csproj|solutionrelative:application\\email\\recordatorio\\recordatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97D073-0F5C-4427-9EEE-4F9773617F00}|Infraestructure\\Infraestructure.csproj|c:\\users\\odiseo\\desktop\\sistema_medico\\sistema_medico yahinniel\\sistema_medico\\backend net\\infraestructure\\repository\\citasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97D073-0F5C-4427-9EEE-4F9773617F00}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repository\\citasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4131A24D-FC8B-40ED-8D8D-B30AEA33AA6E}|Application\\Application.csproj|c:\\users\\odiseo\\desktop\\sistema_medico\\sistema_medico yahinniel\\sistema_medico\\backend net\\application\\cita\\recordatorio\\recordarcitacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4131A24D-FC8B-40ED-8D8D-B30AEA33AA6E}|Application\\Application.csproj|solutionrelative:application\\cita\\recordatorio\\recordarcitacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97D073-0F5C-4427-9EEE-4F9773617F00}|Infraestructure\\Infraestructure.csproj|c:\\users\\odiseo\\desktop\\sistema_medico\\sistema_medico yahinniel\\sistema_medico\\backend net\\infraestructure\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97D073-0F5C-4427-9EEE-4F9773617F00}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97D073-0F5C-4427-9EEE-4F9773617F00}|Infraestructure\\Infraestructure.csproj|c:\\users\\odiseo\\desktop\\sistema_medico\\sistema_medico yahinniel\\sistema_medico\\backend net\\infraestructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97D073-0F5C-4427-9EEE-4F9773617F00}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BFECFC-749F-41C1-A53D-D182513A8590}|Api\\Api.csproj|c:\\users\\odiseo\\desktop\\sistema_medico\\sistema_medico yahinniel\\sistema_medico\\backend net\\api\\globalhandlerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BFECFC-749F-41C1-A53D-D182513A8590}|Api\\Api.csproj|solutionrelative:api\\globalhandlerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BFECFC-749F-41C1-A53D-D182513A8590}|Api\\Api.csproj|c:\\users\\odiseo\\desktop\\sistema_medico\\sistema_medico yahinniel\\sistema_medico\\backend net\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7BFECFC-749F-41C1-A53D-D182513A8590}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F97D073-0F5C-4427-9EEE-4F9773617F00}|Infraestructure\\Infraestructure.csproj|c:\\users\\odiseo\\desktop\\sistema_medico\\sistema_medico yahinniel\\sistema_medico\\backend net\\infraestructure\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F97D073-0F5C-4427-9EEE-4F9773617F00}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Infraestructure",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Infraestructure\\Infraestructure.csproj",
+              "RelativeDocumentMoniker": "Infraestructure\\Infraestructure.csproj",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Infraestructure\\Infraestructure.csproj",
+              "RelativeToolTip": "Infraestructure\\Infraestructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-16T00:30:35.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Infraestructure\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Infraestructure\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infraestructure\\ServiceRegistration.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:00:13.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Application\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Application\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Application\\ServiceRegistration.cs",
+              "RelativeToolTip": "Application\\ServiceRegistration.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:31:31.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Recordatorio.cs",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Application\\Email\\Recordatorio\\Recordatorio.cs",
+              "RelativeDocumentMoniker": "Application\\Email\\Recordatorio\\Recordatorio.cs",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Application\\Email\\Recordatorio\\Recordatorio.cs",
+              "RelativeToolTip": "Application\\Email\\Recordatorio\\Recordatorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:00:39.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Global.cs",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Infraestructure\\Global.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Global.cs",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Infraestructure\\Global.cs",
+              "RelativeToolTip": "Infraestructure\\Global.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:18:16.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:25:09.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Infraestructure\\Servicio Email\\EmailService.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Servicio Email\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Infraestructure\\Servicio Email\\EmailService.cs",
+              "RelativeToolTip": "Infraestructure\\Servicio Email\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:18:20.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Infraestructure\\Servicio Email\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Servicio Email\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Infraestructure\\Servicio Email\\IEmailService.cs",
+              "RelativeToolTip": "Infraestructure\\Servicio Email\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:18:19.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CitasController.cs",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Api\\Controllers\\CitasController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\CitasController.cs",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Api\\Controllers\\CitasController.cs",
+              "RelativeToolTip": "Api\\Controllers\\CitasController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:00:23.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteEntityCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Application\\CommandGenerics\\DeleteEntityCommand.cs",
+              "RelativeDocumentMoniker": "Application\\CommandGenerics\\DeleteEntityCommand.cs",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Application\\CommandGenerics\\DeleteEntityCommand.cs",
+              "RelativeToolTip": "Application\\CommandGenerics\\DeleteEntityCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:39:10.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HistorialController.cs",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Api\\Controllers\\HistorialController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\HistorialController.cs",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Api\\Controllers\\HistorialController.cs",
+              "RelativeToolTip": "Api\\Controllers\\HistorialController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwCIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:39:47.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MedicoController.cs",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Api\\Controllers\\MedicoController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\MedicoController.cs",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Api\\Controllers\\MedicoController.cs",
+              "RelativeToolTip": "Api\\Controllers\\MedicoController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAuwC0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:40:32.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Infraestructure\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Infraestructure\\Repository\\Repository.cs",
+              "RelativeToolTip": "Infraestructure\\Repository\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:27:29.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Infraestructure\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Infraestructure\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Infraestructure\\Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:27:21.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CitasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Infraestructure\\Repository\\CitasRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repository\\CitasRepository.cs",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Infraestructure\\Repository\\CitasRepository.cs",
+              "RelativeToolTip": "Infraestructure\\Repository\\CitasRepository.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:33:17.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RecordarCitaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Application\\Cita\\Recordatorio\\RecordarCitaCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Cita\\Recordatorio\\RecordarCitaCommand.cs",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Application\\Cita\\Recordatorio\\RecordarCitaCommand.cs",
+              "RelativeToolTip": "Application\\Cita\\Recordatorio\\RecordarCitaCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:31:18.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GlobalHandlerException.cs",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Api\\GlobalHandlerException.cs",
+              "RelativeDocumentMoniker": "Api\\GlobalHandlerException.cs",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Api\\GlobalHandlerException.cs",
+              "RelativeToolTip": "Api\\GlobalHandlerException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:26:26.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Odiseo\\Desktop\\Sistema_Medico\\Sistema_Medico yahinniel\\Sistema_Medico\\Backend NET\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAABRwAoAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T14:59:16.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

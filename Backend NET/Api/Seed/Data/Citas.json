@@ -1,0 +1,44 @@
+[
+  {
+    "Id": "d3200df1-bb57-4f9e-bd77-4a2e88f443fb",
+    "PacienteId": "c14a16fb-25d0-4ac4-b1e6-f04365e8f51d",
+    "MedicoId": "c14a16fb-25d0-4ac4-b1e6-f04365e8f51d",
+    "Estado": "Confirmada",
+    "Comentarios": "El paciente se encuentra en buen estado de salud."
+  },
+  {
+    "Id": "a4a82523-4f6d-4a91-a1a1-e69b19b2f8a7",
+    "PacienteId": "51b3fa45-23e7-4bb2-ba9e-0126950e08c5",
+    "MedicoId": "8b0e836b-d4e7-4f41-b303-f39a2be84eb2",
+    "Estado": "Pendiente",
+    "Comentarios": "El paciente necesita hacerse análisis de laboratorio antes de confirmar la cita."
+  },
+  {
+    "Id": "8b0e836b-d4e7-4f41-b303-f39a2be84eb2",
+    "PacienteId": "a4a82523-4f6d-4a91-a1a1-e69b19b2f8a7",
+    "MedicoId": "a4a82523-4f6d-4a91-a1a1-e69b19b2f8a7",
+    "Estado": "Cancelada",
+    "Comentarios": "El paciente informó que no podrá asistir a la cita por motivos personales."
+  },
+  {
+    "Id": "e01e5dbb-1872-4b29-bc8d-88327e4b129d",
+    "PacienteId": "8b0e836b-d4e7-4f41-b303-f39a2be84eb2",
+    "MedicoId": "51b3fa45-23e7-4bb2-ba9e-0126950e08c5",
+    "Estado": "Confirmada",
+    "Comentarios": "El paciente confirmó su asistencia a la cita."
+  },
+  {
+    "Id": "c14a16fb-25d0-4ac4-b1e6-f04365e8f51d",
+    "PacienteId": "a5d13f61-bf49-4470-80ec-54533e013bd3",
+    "MedicoId": "a5d13f61-bf49-4470-80ec-54533e013bd3",
+    "Estado": "Pendiente",
+    "Comentarios": "El paciente no ha confirmado la cita, se enviará un recordatorio por correo electrónico."
+  },
+  {
+    "Id": "51b3fa45-23e7-4bb2-ba9e-0126950e08c5",
+    "PacienteId": "9f4a2440-5b61-44ad-8313-69c5e57bb66e",
+    "MedicoId": "9f4a2440-5b61-44ad-8313-69c5e57bb66e",
+    "Estado": "Confirmada",
+    "Comentarios": "El paciente llegó tarde a la cita, pero se le pudo atender."
+  }
+]

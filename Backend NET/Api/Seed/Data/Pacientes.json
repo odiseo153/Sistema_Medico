@@ -1,0 +1,72 @@
+[
+  {
+    "Id": "d3200df1-bb57-4f9e-bd77-4a2e88f443fb",
+    "UserName": "johndoe",
+    "Password": "Odiseo12",
+    "Email": "johndoe@example.com",
+    "SecurityStamp": "kj42j23h4kj23h4kjh234kjh23k4jh"
+  },
+  {
+    "Id": "a4a82523-4f6d-4a91-a1a1-e69b19b2f8a7",
+    "UserName": "janedoe",
+    "Password": "Odiseo12",
+    "Email": "janedoe@example.com",
+    "SecurityStamp": "hj23k4hj234kjh23k4jh23kj4h2kj34"
+  },
+  {
+    "Id": "8b0e836b-d4e7-4f41-b303-f39a2be84eb2",
+    "UserName": "samsmith",
+    "Password": "Odiseo12",
+    "Email": "samsmith@example.com",
+    "SecurityStamp": "skj23h4kj23h4kjh234kjh23k4jh23k"
+  },
+  {
+    "Id": "e01e5dbb-1872-4b29-bc8d-88327e4b129d",
+    "UserName": "emilyjohnson",
+    "Password": "Odiseo12",
+    "Email": "emilyjohnson@example.com",
+    "SecurityStamp": "h2kj34h2kj34h2kj34h2kj34h2kj34"
+  },
+  {
+    "Id": "c14a16fb-25d0-4ac4-b1e6-f04365e8f51d",
+    "UserName": "michaelbrown",
+    "Password": "Odiseo12",
+    "Email": "michaelbrown@example.com",
+    "SecurityStamp": "kjh23k4hj23k4hj23k4hj23k4hj23k"
+  },
+  {
+    "Id": "51b3fa45-23e7-4bb2-ba9e-0126950e08c5",
+    "UserName": "sarahwilson",
+    "Password": "Odiseo12",
+    "Email": "sarahwilson@example.com",
+    "SecurityStamp": "h2kjh23k4hj23k4hj23k4hj23k4hj2"
+  },
+  {
+    "Id": "ed10113c-22f8-4a21-9055-9ab1873188b9",
+    "UserName": "davidtaylor",
+    "Password": "Odiseo12",
+    "Email": "davidtaylor@example.com",
+    "SecurityStamp": "j23k4h2k3j4h23k4h23kj4h2k3j4h2k"
+  },
+  {
+    "Id": "e1774525-9269-4874-bad8-b146001b4c39",
+    "UserName": "olivialopez",
+    "Password": "Odiseo12",
+    "Email": "olivialopez@example.com",
+    "SecurityStamp": "hj23k4hj23k4hj23k4hj23k4hj23k4"
+  },
+  {
+    "Id": "a5d13f61-bf49-4470-80ec-54533e013bd3",
+    "UserName": "williammartinez",
+    "Password": "Odiseo12",
+    "Email": "williammartinez@example.com",
+    "SecurityStamp": "kjh23k4hj23k4hj23k4hj23k4hj23k"
+  },
+  {
+    "Id": "9f4a2440-5b61-44ad-8313-69c5e57bb66e",
+    "UserName": "sophiawilliams",
+    "Password": "Odiseo12",
+    "Email": "sophiawilliams@example.com",
+    "SecurityStamp": "h2k3j4h23k4hj23k4hj23k4hj23k4h"
+  }
+]
